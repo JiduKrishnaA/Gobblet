@@ -22,7 +22,7 @@ games and can contribute to the development of advanced game-playing agents.
 # images:
 
 ![image](https://github.com/JiduKrishnaA/Gobblet/assets/101034086/bbc26da2-2de6-4246-ad3b-76052dd6ce2b)
-Game Board
+# # Game Board
 
 ![image](https://github.com/JiduKrishnaA/Gobblet/assets/101034086/9e92df3e-c0da-4b3b-902c-6d651a80d5d2)
 Player Pieces
