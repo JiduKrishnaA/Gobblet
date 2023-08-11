@@ -15,3 +15,6 @@ prioritize protecting its own pieces while simultaneously obstructing its oppone
 results highlight the effectiveness of deep reinforcement learning for achieving high-level
 gameplay in Gobblet. This approach has the potential to be extended to other strategy board
 games and can contribute to the development of advanced game-playing agents.
+
+![image](https://github.com/JiduKrishnaA/Gobblet/assets/101034086/e44d5035-dd3e-4d0c-be78-e2a6ce5fa782)
+
