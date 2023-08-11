@@ -1,6 +1,7 @@
 # Gobblet
 
-#ABSTRACT
+# ABSTRACT
+
 The use of deep reinforcement learning techniques to master the game of Gobblet.
 Gobblet is a strategic board game played on a 4x4 board with twelve pieces of varying sizes per
 player. The objective is to form a row of four pieces, horizontally, vertically, or diagonally. To
