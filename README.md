@@ -1,4 +1,4 @@
-# Gobblet
+# Gobblet Board Game using AI
 
 # ABSTRACT
 
